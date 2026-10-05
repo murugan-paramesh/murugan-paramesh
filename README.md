@@ -1,33 +1,93 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8FHI/AAAAAAAAAMt4/u0a1bpLskYgrwGb1lhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Paramesh Murugan</h1>
-<h3 align="center">A passionate Robotics Engineer from Singapore</h3>
 <p align="center">
-  <img src="https://www.bing.com/th/id/OGC.bad20ecf9695a59776563ffbde831fc6?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fcc%2f32%2f99%2fcc3299350f3d91327d4a8922ecae8fb8.gif&ehk=acbb7M1NLGCPuUffhxjoCIn2u9GXpc4NOexRml5SVC8%3d" alt="Robotics Image" width="500"/>
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8FHI/AAAAAAAAAMt4/u0a1bpLskYgrwGb1lhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Profile banner" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Paramesh Murugan 👋</h1>
+<h3 align="center">Robotics Engineer | Autonomous Systems · Perception · Control</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murugan-paramesh&label=Profile%20views&color=0e75b6&style=flat" alt="murugan-paramesh" /> </p>
+<p align="center">
+  Based in Singapore 🇸🇬<br />
+  M.Sc. in Computer Control and Automation — Nanyang Technological University
+</p>
 
-- 🌱 I’m currently learning **Robotics Operating System**
+<p align="center">
+  <a href="https://www.linkedin.com/in/paramesh-murugan-80723a2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:PARAMESH001@e.ntu.edu.sg">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge" alt="Email Paramesh" />
+  </a>
+  <a href="https://github.com/murugan-paramesh?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" />
+  </a>
+</p>
 
-- 💬 Ask me about **ROS, Machine Learning, Deep Learning, Computer Vision, Generative AI**
+---
 
-- 📫 How to reach me **PARAMESH001@e.ntu.edu.sg**
+## About me
 
-<h3 align="left">Connect with me:</h3>
+I develop and test robotics software across **navigation, perception, simulation, and control**. My background combines ROS-based autonomy and applied machine learning with hands-on experience in embedded systems, electrical integration, and troubleshooting.
+
+I enjoy connecting the full system: sensor inputs, robot behavior, software integration, and repeatable testing.
+
+- 🤖 **Robotics:** ROS / ROS 2, SLAM, localization, autonomous navigation, and simulation.
+- 👁️ **Perception & AI:** computer vision, multimodal learning, and VLM-based scene understanding.
+- 🛠️ **Engineering:** hardware interfacing, control systems, debugging, and validation.
+- 🌱 **Current interests:** classical robot manipulation, embodied AI, and simulation-to-real transfer.
+
+## Featured project
+
+### [LIBERO-10 Classical Manipulation](https://github.com/murugan-paramesh/libero-classical-manipulation)
+
+A robotics project focused on classical approaches to the **LIBERO-10 manipulation tasks** and the **Intrinsic Core** stack.
+
+[Explore the repository →](https://github.com/murugan-paramesh/libero-classical-manipulation)
+
+## Selected engineering work
+
+| Project | What I worked on |
+| --- | --- |
+| **ROS 2 + Isaac Sim Quadruped Autonomy** | Integrated Nav2 and LiDAR-based navigation for waypoint missions, obstacle-aware safety stops, and repeatable evaluation with mission logging. |
+| **ROS Warehouse Navigation** | Developed and validated a Gazebo navigation stack using Gmapping, AMCL, and LiDAR / IMU sensor fusion; tuned planning and obstacle-aware behaviors. |
+| **VLM Scene Understanding for Robotics** | Built an image-to-structured-output pipeline using PyTorch, Hugging Face, Pydantic, and FastAPI for object inventory and scene summaries. |
+
+## Technical stack
+
 <p align="left">
-<a href="https://linkedin.com/in/paramesh-murugan-80723a2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramesh-murugan-80723a2a5" height="30" width="40" /></a>
-<a href="https://kaggle.com/muruganparamesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muruganparamesh" height="30" width="40" /></a>
-<a href="https://instagram.com/px.rx.mesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="px.rx.mesh" height="30" width="40" /></a>
-<a href="https://medium.com/@paramesh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paramesh001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@paramesh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@paramesh001" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&amp;logo=ros&amp;logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+| Area | Technologies & methods |
+| --- | --- |
+| **Programming** | Python, C++, C, Java |
+| **Robotics & simulation** | ROS, ROS 2, Nav2, RViz, Gazebo, NVIDIA Isaac Sim, CoppeliaSim, URDF / SDF, RMF |
+| **Navigation & control** | SLAM, Gmapping, AMCL, LiDAR / IMU sensor fusion, A*, PID control, Kalman filters |
+| **Perception & machine learning** | OpenCV, PyTorch, TensorFlow, CNNs, LSTMs, multimodal learning, SHAP |
+| **LLMs & vision-language systems** | Hugging Face, VLMs, LLMs, RAG, FAISS, structured output validation, FastAPI |
+| **Development & deployment** | **Docker for ROS node containerization**, Linux, Git, CMake, colcon, basic GitHub Actions pipelines |
+| **Embedded systems** | STM32 HAL, PIC, Raspberry Pi, GPIO, UART, SPI, I²C, sensor interfacing |
+| **Electrical & automation** | PLC, SCADA, motor control, PWM, MATLAB, AutoCAD, panel wiring and functional testing |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murugan-paramesh&show_icons=true&locale=en&layout=compact" alt="murugan-paramesh" /></p>
+## Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murugan-paramesh&show_icons=true&locale=en" alt="murugan-paramesh" /></p>
+- **M.Sc. — Computer Control and Automation**  
+  Nanyang Technological University, Singapore · 2023–2024
+- **B.E. — Electrical and Electronics Engineering**  
+  St. Joseph's College of Engineering, Anna University, India · 2018–2022
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murugan-paramesh&" alt="murugan-paramesh" /></p>
+## Let's connect
+
+I'm open to **Robotics Engineer, Research Engineer, and Autonomous Systems** opportunities, as well as collaboration on robotics and applied AI projects.
+
+📫 **[PARAMESH001@e.ntu.edu.sg](mailto:PARAMESH001@e.ntu.edu.sg)**
+
+[LinkedIn](https://www.linkedin.com/in/paramesh-murugan-80723a2a5/) · [Kaggle](https://www.kaggle.com/muruganparamesh) · [Medium](https://medium.com/@paramesh001) · [HackerRank](https://www.hackerrank.com/@paramesh001) · [Instagram](https://www.instagram.com/px.rx.mesh/)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=murugan-paramesh&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="GitHub profile views" />
+</p>
